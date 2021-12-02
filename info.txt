@@ -6,3 +6,4 @@ test123
 testinfo
 test2345
 Docker is the way to isolate applications 
+Ansible is popular configuration management tool
