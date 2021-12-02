@@ -3,3 +3,4 @@ wellington nz
 works as a architect
 For xyz company
 shahwez
+He works on DevOps tools
